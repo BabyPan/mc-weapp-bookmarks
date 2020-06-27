@@ -1,0 +1,25 @@
+{
+  "name": "mc-weapp-bookmarks",
+  "version": "1.0.0",
+  "description": "微牛-国台线上直营中心小程序文档",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabyPan/mc-weapp-bookmarks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabyPan/mc-weapp-bookmarks/issues"
+  },
+  "homepage": "https://github.com/BabyPan/mc-weapp-bookmarks#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.2",
+    "vuepress-theme-reco": "^1.4.7"
+  }
+}
